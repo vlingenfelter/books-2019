@@ -19,7 +19,7 @@
 				return {
 					img: `books/${v['Image']}`,
 					title: v['Title'],
-					author: 'author',
+					author: v['Author'],
 				}
 			});
 
