@@ -5,5 +5,10 @@
 	"short_name": "TODO",
 	"display": "minimal-ui",
 	"start_url": "/",
-	"icons": []
+	"icons": [
+		{
+			"src": "book-icon.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		}]
 }
